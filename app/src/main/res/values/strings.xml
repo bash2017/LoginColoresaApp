@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login Colores App</string>
+    <string name="TecLagApps">TecLagApps</string>
+    <string name="Apps">Apps</string>
+    <string name="ParaAndroid">&#160;para Android&#160;</string>
+    <string name="Lollipop">Lollipop</string>
+    <string name="Entrar">Entrar</string>
+    <string name="PuntoCom">TecLagApps.com</string>
+    <string name="DerechosReserv">(c) Derechos Reservados</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
